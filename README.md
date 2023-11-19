@@ -1,6 +1,6 @@
 # NLP(Natural Language Proccessing) Project on Language Identification for four Ethiopian Languages
    
-    Languages: Afaan Oromo
+##    Languages: Afaan Oromo
                Sidama
                Somali
                Wolayta
