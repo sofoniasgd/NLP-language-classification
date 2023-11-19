@@ -1,0 +1,9 @@
+    numpy
+    math
+    pandas
+    scikit-learn
+    itertools
+    collections
+    matplotlib
+    seaborn
+    pickle
