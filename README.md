@@ -18,21 +18,11 @@ This project is done on Anaconda distribution and hence an anaconda installation
 
 The dataset was collected from various sources with 500 sentences each for Somali, Wolayta, Afaan Oromo and Sidama
 
-Required python Dependencies: 
-    numpy
-    math
-    pandas
-    scikit-learn
-    itertools
-    collections
-    matplotlib
-    seaborn
-    pickle
 
-
-
-Participants
+Collaborators
+```
 Tibebesilasie Ashenafy  SGS/0475/2014A
 Saba Sitotaw            SGS/0667/2014A
 Sofonias Gashaw         SGS/0474/2014A
 Meron Dejene            SGS/0471/2014A
+```
