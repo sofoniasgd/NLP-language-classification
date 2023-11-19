@@ -1,4 +1,4 @@
-NLP(Natural Language Proccessing) Project on 
+#NLP(Natural Language Proccessing) Project on 
 Language Identification for four Ethiopian Languages
    
     Languages: Afaan Oromo
@@ -6,7 +6,7 @@ Language Identification for four Ethiopian Languages
                Somali
                Wolayta
 
-This project is done on Anaconda distribution and hence an anaconda installation is a requirement to run this project
+This project is done on Anaconda distribution and hence an anaconda installation is a requirement.
 * The "Language identifier DT RF GB" notebook file (Language identifier DT RF GB.ipynb) describes the use of three models: 
     1) a Decision Tree, 
     2) Random Forest, and 
