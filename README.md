@@ -1,15 +1,16 @@
 # NLP(Natural Language Proccessing) Project on Language Identification for four Ethiopian Languages
    
-##    Languages: Afaan Oromo
-               Sidama
-               Somali
-               Wolayta
+##    Languages:
+            Afaan Oromo
+            Sidama
+            Somali
+            Wolayta
 
 This project is done on Anaconda distribution and hence an anaconda installation is a requirement(OR it can be done on google colab).
-* The "Language identifier DT RF GB" notebook file (Language identifier DT RF GB.ipynb) describes the use of three models: 
-    1) a Decision Tree, 
-    2) Random Forest, and 
-    3) Gradient Boost 
+* The "Language identifier DT RF GB" notebook file (Language identifier DT RF GB.ipynb) describes the use of three models:
+*       Decision Tree,
+*       Random Forest, and
+*       Gradient Boost 
     for language detection with the aim of classifying text into either Afan oromo, Somali, Wolayta and Sidama.
 * The "Language identifier naive" notebook file (Language identifier naive.ipynb) describes the use of Naive Bayes classification model
 
