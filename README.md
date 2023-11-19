@@ -7,12 +7,14 @@
             Wolayta
 
 This project is done on Anaconda distribution and hence an anaconda installation is a requirement(OR it can be done on google colab).
-* The "Language identifier DT RF GB" notebook file (Language identifier DT RF GB.ipynb) describes the use of three models:
-*       Decision Tree,
-*       Random Forest, and
-*       Gradient Boost 
+* The **Language identifier DT RF GB** notebook file (Language identifier DT RF GB.ipynb) describes the use of three models:
+* ```
+       Decision Tree,
+       Random Forest, and
+       Gradient Boost
+  ``` 
     for language detection with the aim of classifying text into either Afan oromo, Somali, Wolayta and Sidama.
-* The "Language identifier naive" notebook file (Language identifier naive.ipynb) describes the use of Naive Bayes classification model
+* The **Language identifier naive** notebook file (Language identifier naive.ipynb) describes the use of Naive Bayes classification model
 
 The dataset was collected from various sources with 500 sentences each for Somali, Wolayta, Afaan Oromo and Sidama
 
